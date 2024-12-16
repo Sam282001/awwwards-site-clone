@@ -1,6 +1,6 @@
 # Awwwards Site Clone
 
-This project is a reimagined version of the Zentry platform, designed to captivate users with a blend of dynamic animations, creative transitions, and immersive video storytelling. It serves as a modern showcase of interactive web design and cutting-edge features.
+This project is a reimagined clone of the Zentry platform, designed to captivate users with a blend of dynamic animations, creative transitions, and immersive video storytelling. It serves as a modern showcase of interactive web design and cutting-edge features.
 
 ⚠️ **Disclaimer**  
 All design credits go to Zentry. This project is a non-commercial clone developed purely for demonstration purposes.
@@ -47,7 +47,7 @@ The project is deployed on **[Vercel](https://vercel.com/)** for fast and effici
 
 ## 🎥 View the Demo
 
-Experience the Zentry Reimagined project in action: [Live Demo](https://your-demo-link.vercel.app)
+Experience the Zentry Reimagined project in action: [Live Demo]([https://your-demo-link.vercel.app](https://awwwards-site-clone.vercel.app/))
 
 ---
 
