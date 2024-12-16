@@ -47,10 +47,10 @@ The project is deployed on **[Vercel](https://vercel.com/)** for fast and effici
 
 ## 🎥 View the Demo
 
-Experience the Zentry Reimagined project in action: [Live Demo]([https://your-demo-link.vercel.app](https://awwwards-site-clone.vercel.app/))
+Experience the Zentry Reimagined project in action: **[Live Demo](https://awwwards-site-clone.vercel.app/)**
 
 ---
 
 ## 🖥️ Discover More Work
 
-Explore additional interactive designs and innovative projects on my [Projects Portfolio]([https://your-projects-page-link](https://3d-portfolio-nine-navy.vercel.app/)).  
+Explore additional interactive designs and innovative projects on my **[Projects Portfolio](https://3d-portfolio-nine-navy.vercel.app/)**
