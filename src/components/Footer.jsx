@@ -14,7 +14,7 @@ const Footer = () => {
     <footer className='w-screen bg-violet-300 py-4 text-black'>
         <div className='container mx-auto flex flex-col items-center justify-between gap-4 px-4 md:flex-row'>
             <p className='text-center text-sm md:text-left'>
-                &copy; Nova 2024. All Rights Reserved
+                &copy; 2024 - All Rights Reserved
             </p>
 
             <div className='flex justify-center gap-4 md:justify-star'>
@@ -25,8 +25,8 @@ const Footer = () => {
                 ))}
             </div>
 
-            <a href="#privacy-policy" className='text-center text-sm hover:underline md:text-right'>
-                Privacy Policy
+            <a href="https://3d-portfolio-nine-navy.vercel.app/" target='_blank' className='text-center text-sm hover:underline md:text-right'>
+                Clone By - Sameer Maitre
             </a>
 
         </div>
